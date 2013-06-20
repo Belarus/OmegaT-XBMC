@@ -25,3 +25,47 @@ source_lang = en
 file_filter = translations/xbmc-skins.skin-back-row/<lang>.po
 source_lang = en
 
+[xbmc-skins.skin-xeebo]
+file_filter = translations/xbmc-skins.skin-xeebo/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-pm3-hd]
+file_filter = translations/xbmc-skins.skin-pm3-hd/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-xperience-more]
+file_filter = translations/xbmc-skins.skin-xperience-more/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-xtv-saf]
+file_filter = translations/xbmc-skins.skin-xtv-saf/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-re-touched]
+file_filter = translations/xbmc-skins.skin-re-touched/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-xperience1080]
+file_filter = translations/xbmc-skins.skin-xperience1080/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-mediastream_redux]
+file_filter = translations/xbmc-skins.skin-mediastream_redux/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-confluence-custom-mod]
+file_filter = translations/xbmc-skins.skin-confluence-custom-mod/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-droid]
+file_filter = translations/xbmc-skins.skin-droid/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-nbox]
+file_filter = translations/xbmc-skins.skin-nbox/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-bello]
+file_filter = translations/xbmc-skins.skin-bello/<lang>.po
+source_lang = en
+

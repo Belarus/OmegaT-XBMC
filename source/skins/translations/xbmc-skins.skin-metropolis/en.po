@@ -1,15 +1,14 @@
 # XBMC Media Center language file
 # Addon Name: Metropolis
 # Addon id: skin.metropolis
-# Addon version: 2.5.2
-# Addon Provider: Amra
+# Addon Provider: Amra, Stoli, jingai
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2012-12-13 16:03+0000\n"
+"PO-Revision-Date: 2013-05-17 21:08+0000\n"
 "Last-Translator: TeamXBMC <xbmctranslations@gmail.com>\n"
 "Language-Team: English (http://www.transifex.com/projects/p/xbmc-skins/language/en/)\n"
 "MIME-Version: 1.0\n"
@@ -19,10 +18,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid ""
-"A Mix of Retro and Modern. Original Metropolis skin by Amra - continued by "
-"Stoli"
-msgstr "A Mix of Retro and Modern. Original Metropolis skin by Amra - continued by Stoli"
+msgid "A Mix of Retro and Modern."
+msgstr "A Mix of Retro and Modern."
 
 msgctxt "Addon Description"
 msgid ""
@@ -56,6 +53,14 @@ msgstr "Shorter delay before auto scrolling"
 msgctxt "#31007"
 msgid "ON"
 msgstr "ON"
+
+msgctxt "#31009"
+msgid "Browser"
+msgstr "Browser"
+
+msgctxt "#31010"
+msgid "N/A"
+msgstr "N/A"
 
 msgctxt "#31011"
 msgid "Metropolis"
@@ -380,8 +385,8 @@ msgid "Disable destructive Shutdown items"
 msgstr "Disable destructive Shutdown items"
 
 msgctxt "#31338"
-msgid "Enable Advanced Media Filter"
-msgstr "Enable Advanced Media Filter"
+msgid "Use simple Media Filter"
+msgstr "Use simple Media Filter"
 
 msgctxt "#31341"
 msgid ""
@@ -909,6 +914,10 @@ msgctxt "#31404"
 msgid "Hide Rating and Studio Flags"
 msgstr "Hide Rating and Studio Flags"
 
+msgctxt "#31405"
+msgid "Hide Movie Taglines"
+msgstr "Hide Movie Taglines"
+
 msgctxt "#31406"
 msgid "Fanart Views: Classic Frame"
 msgstr "Fanart Views: Classic Frame"
@@ -998,12 +1007,16 @@ msgid "Display Path in Video Info instead of Rating details"
 msgstr "Display Path in Video Info instead of Rating details"
 
 msgctxt "#31430"
-msgid "Poster Large"
-msgstr "Poster Large"
+msgid "Poster Wrap Large"
+msgstr "Poster Wrap Large"
 
 msgctxt "#31431"
 msgid "Click to reset Metropolis to defaults"
 msgstr "Click to reset Metropolis to defaults"
+
+msgctxt "#31432"
+msgid "Visualization Background: Ken Burns effect"
+msgstr "Visualization Background: Ken Burns effect"
 
 msgctxt "#31433"
 msgid "Visualization Background: Fanart"

@@ -1,7 +1,6 @@
 # XBMC Media Center language file
 # Addon Name: Artwork Downloader
 # Addon id: script.artwork.downloader
-# Addon version: 12.0.13
 # Addon Provider: Martijn
 # Translators:
 msgid ""
@@ -9,7 +8,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2012-12-15 23:31+0000\n"
+"PO-Revision-Date: 2013-02-10 22:25+0000\n"
 "Last-Translator: TeamXBMC <xbmctranslations@gmail.com>\n"
 "Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
 "MIME-Version: 1.0\n"
@@ -231,18 +230,6 @@ msgctxt "#32058"
 msgid "Minimum fanart size: TV Shows"
 msgstr "Minimum fanart size: TV Shows"
 
-msgctxt "#32059"
-msgid "1080"
-msgstr "1080"
-
-msgctxt "#32060"
-msgid "720"
-msgstr "720"
-
-msgctxt "#32061"
-msgid "480"
-msgstr "480"
-
 msgctxt "#32062"
 msgid "Minimum fanart size: Musicvideos"
 msgstr "Minimum fanart size: Musicvideos"
@@ -287,35 +274,11 @@ msgctxt "#32103"
 msgid "Use local files"
 msgstr "Use local files"
 
-msgctxt "#32104"
-msgid "-"
-msgstr "-"
-
-msgctxt "#32105"
-msgid "-"
-msgstr "-"
-
 msgctxt "#32106"
 msgid ""
 "Use XBMC pre-caching [I](caches images to thumbnails folder while "
 "downloading) [/I]"
 msgstr "Use XBMC pre-caching [I](caches images to thumbnails folder while downloading) [/I]"
-
-msgctxt "#32107"
-msgid "-"
-msgstr "-"
-
-msgctxt "#32108"
-msgid "-"
-msgstr "-"
-
-msgctxt "#32109"
-msgid "-"
-msgstr "-"
-
-msgctxt "#32110"
-msgid "-"
-msgstr "-"
 
 msgctxt "#32121"
 msgid "Fanart"
@@ -424,10 +387,6 @@ msgstr "add-on aborted because of problems"
 msgctxt "#32153"
 msgid "add-on cancelled while downloading Artwork"
 msgstr "add-on cancelled while downloading Artwork"
-
-msgctxt "#32154"
-msgid "-"
-msgstr "-"
 
 msgctxt "#32181"
 msgid "Info"

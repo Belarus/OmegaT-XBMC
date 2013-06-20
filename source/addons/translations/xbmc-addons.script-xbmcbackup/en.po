@@ -1,7 +1,6 @@
 # XBMC Media Center language file
 # Addon Name: XBMC Backup
 # Addon id: script.xbmcbackup
-# Addon version: 0.3.2
 # Addon Provider: robweber
 # Translators:
 msgid ""
@@ -9,7 +8,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2012-12-15 23:31+0000\n"
+"PO-Revision-Date: 2013-05-12 12:13+0000\n"
 "Last-Translator: TeamXBMC <xbmctranslations@gmail.com>\n"
 "Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
 "MIME-Version: 1.0\n"
@@ -97,6 +96,14 @@ msgctxt "#30027"
 msgid "Dropbox"
 msgstr "Dropbox"
 
+msgctxt "#30028"
+msgid "Dropbox Key"
+msgstr "Dropbox Key"
+
+msgctxt "#30029"
+msgid "Dropbox Secret"
+msgstr "Dropbox Secret"
+
 msgctxt "#30030"
 msgid "User Addons"
 msgstr "User Addons"
@@ -120,6 +127,42 @@ msgstr "Thumbnails/Fanart"
 msgctxt "#30035"
 msgid "Config Files"
 msgstr "Config Files"
+
+msgctxt "#30036"
+msgid "Custom Directory 1"
+msgstr "Custom Directory 1"
+
+msgctxt "#30037"
+msgid "Custom Directory 2"
+msgstr "Custom Directory 2"
+
+msgctxt "#30038"
+msgid "Advanced Settings Detected"
+msgstr "Advanced Settings Detected"
+
+msgctxt "#30039"
+msgid "The advancedsettings file should be restored first"
+msgstr "The advancedsettings file should be restored first"
+
+msgctxt "#30040"
+msgid "Select Yes to restore this file and restart XBMC"
+msgstr "Select Yes to restore this file and restart XBMC"
+
+msgctxt "#30041"
+msgid "Select No to continue"
+msgstr "Select No to continue"
+
+msgctxt "#30042"
+msgid "Resume Restore"
+msgstr "Resume Restore"
+
+msgctxt "#30043"
+msgid "XBMC Backup has detected an unfinished restore"
+msgstr "XBMC Backup has detected an unfinished restore"
+
+msgctxt "#30044"
+msgid "Would you like to continue?"
+msgstr "Would you like to continue?"
 
 msgctxt "#30045"
 msgid "Error: Remote path doesn't exist"
@@ -168,6 +211,14 @@ msgstr "Check log for Dropbox authorize URL"
 msgctxt "#30057"
 msgid "Click OK when authorized"
 msgstr "Click OK when authorized"
+
+msgctxt "#30058"
+msgid "Dropbox Developer Code Needed"
+msgstr "Dropbox Developer Code Needed"
+
+msgctxt "#30059"
+msgid "Visit https://www.dropbox.com/developers"
+msgstr "Visit https://www.dropbox.com/developers"
 
 msgctxt "#30060"
 msgid "Enable Scheduler"
@@ -236,3 +287,11 @@ msgstr "Custom Schedule"
 msgctxt "#30076"
 msgid "Shutdown After Backup"
 msgstr "Shutdown After Backup"
+
+msgctxt "#30077"
+msgid "Restart XBMC"
+msgstr "Restart XBMC"
+
+msgctxt "#30078"
+msgid "You should restart XBMC to continue"
+msgstr "You should restart XBMC to continue"

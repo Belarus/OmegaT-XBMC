@@ -1,7 +1,6 @@
 # XBMC Media Center language file
 # Addon Name: Transparency!
 # Addon id: skin.transparency
-# Addon version: 5.0.1
 # Addon Provider: ronie
 # Translators:
 msgid ""
@@ -9,7 +8,7 @@ msgstr ""
 "Project-Id-Version: XBMC Skins\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2012-12-02 22:37+0000\n"
+"PO-Revision-Date: 2013-02-21 13:06+0000\n"
 "Last-Translator: TeamXBMC <xbmctranslations@gmail.com>\n"
 "Language-Team: English (http://www.transifex.com/projects/p/xbmc-skins/language/en/)\n"
 "MIME-Version: 1.0\n"
@@ -558,6 +557,42 @@ msgctxt "#31229"
 msgid "DiscArt"
 msgstr "DiscArt"
 
+msgctxt "#31301"
+msgid "PLAYER"
+msgstr "PLAYER"
+
+msgctxt "#31302"
+msgid "START"
+msgstr "START"
+
+msgctxt "#31303"
+msgid "QUIT"
+msgstr "QUIT"
+
+msgctxt "#31304"
+msgid "Please enter player names..."
+msgstr "Please enter player names..."
+
+msgctxt "#31305"
+msgid "It's your turn"
+msgstr "It's your turn"
+
+msgctxt "#31306"
+msgid "Press UP to continue..."
+msgstr "Press UP to continue..."
+
+msgctxt "#31307"
+msgid "Score"
+msgstr "Score"
+
+msgctxt "#31308"
+msgid "Wins"
+msgstr "Wins"
+
+msgctxt "#31309"
+msgid "HAS WON"
+msgstr "HAS WON"
+
 msgctxt "#31400"
 msgid "New:"
 msgstr "New:"
@@ -581,22 +616,6 @@ msgstr "Show tv info"
 msgctxt "#31600"
 msgid "10 Day"
 msgstr "10 Day"
-
-msgctxt "#31601"
-msgid "Average Low"
-msgstr "Average Low"
-
-msgctxt "#31602"
-msgid "Average High"
-msgstr "Average High"
-
-msgctxt "#31603"
-msgid "Record Low"
-msgstr "Record Low"
-
-msgctxt "#31604"
-msgid "Record High"
-msgstr "Record High"
 
 msgctxt "#31605"
 msgid "Weather forecast provided by:"

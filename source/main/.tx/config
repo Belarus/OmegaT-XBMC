@@ -1,167 +1,59 @@
 [main]
 host = https://www.transifex.com
 
-[XBMC-Main-Frodo.xbmc-core]
-file_filter = translations/XBMC-Main-Frodo.xbmc-core/<lang>.po
+[xbmc-main.repository-xbmc-org]
+file_filter = translations/xbmc-main.repository-xbmc-org/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.skin-confluence]
-file_filter = translations/XBMC-Main-Frodo.skin-confluence/<lang>.po
+[xbmc-main.screensaver-rsxs-euphoria]
+file_filter = translations/xbmc-main.screensaver-rsxs-euphoria/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.repository-xbmc-org]
-file_filter = translations/XBMC-Main-Frodo.repository-xbmc-org/<lang>.po
+[xbmc-main.screensaver-rsxs-plasma]
+file_filter = translations/xbmc-main.screensaver-rsxs-plasma/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.screensaver-rsxs-euphoria]
-file_filter = translations/XBMC-Main-Frodo.screensaver-rsxs-euphoria/<lang>.po
+[xbmc-main.screensaver-rsxs-solarwinds]
+file_filter = translations/xbmc-main.screensaver-rsxs-solarwinds/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.screensaver-rsxs-plasma]
-file_filter = translations/XBMC-Main-Frodo.screensaver-rsxs-plasma/<lang>.po
+[xbmc-main.screensaver-xbmc-builtin-black]
+file_filter = translations/xbmc-main.screensaver-xbmc-builtin-black/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.screensaver-rsxs-solarwinds]
-file_filter = translations/XBMC-Main-Frodo.screensaver-rsxs-solarwinds/<lang>.po
+[xbmc-main.screensaver-xbmc-builtin-dim]
+file_filter = translations/xbmc-main.screensaver-xbmc-builtin-dim/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.screensaver-xbmc-builtin-black]
-file_filter = translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-black/<lang>.po
+[xbmc-main.skin-confluence]
+file_filter = translations/xbmc-main.skin-confluence/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.screensaver-xbmc-builtin-dim]
-file_filter = translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-dim/<lang>.po
+[xbmc-main.visualization-dxspectrum]
+file_filter = translations/xbmc-main.visualization-dxspectrum/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow]
-file_filter = translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow/<lang>.po
+[xbmc-main.visualization-glspectrum]
+file_filter = translations/xbmc-main.visualization-glspectrum/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.visualization-dxspectrum]
-file_filter = translations/XBMC-Main-Frodo.visualization-dxspectrum/<lang>.po
+[xbmc-main.visualization-milkdrop]
+file_filter = translations/xbmc-main.visualization-milkdrop/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.visualization-glspectrum]
-file_filter = translations/XBMC-Main-Frodo.visualization-glspectrum/<lang>.po
+[xbmc-main.visualization-projectm]
+file_filter = translations/xbmc-main.visualization-projectm/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.visualization-milkdrop]
-file_filter = translations/XBMC-Main-Frodo.visualization-milkdrop/<lang>.po
+[xbmc-main.visualization-waveform]
+file_filter = translations/xbmc-main.visualization-waveform/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.visualization-projectm]
-file_filter = translations/XBMC-Main-Frodo.visualization-projectm/<lang>.po
+[xbmc-main.webinterface-default]
+file_filter = translations/xbmc-main.webinterface-default/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.visualization-waveform]
-file_filter = translations/XBMC-Main-Frodo.visualization-waveform/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.weather-wunderground]
-file_filter = translations/XBMC-Main-Frodo.weather-wunderground/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.skin-touched]
-file_filter = translations/XBMC-Main-Frodo.skin-touched/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.script-xbmc-subtitles]
-file_filter = translations/XBMC-Main-Frodo.script-xbmc-subtitles/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-album-universal]
-file_filter = translations/XBMC-Main-Frodo.metadata-album-universal/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-artists-universal]
-file_filter = translations/XBMC-Main-Frodo.metadata-artists-universal/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-musicvideos-last-fm]
-file_filter = translations/XBMC-Main-Frodo.metadata-musicvideos-last-fm/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-themoviedb-org]
-file_filter = translations/XBMC-Main-Frodo.metadata-themoviedb-org/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-tvdb-com]
-file_filter = translations/XBMC-Main-Frodo.metadata-tvdb-com/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.plugin-video-youtube]
-file_filter = translations/XBMC-Main-Frodo.plugin-video-youtube/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.pvr-hts]
-file_filter = translations/XBMC-Main-Frodo.pvr-hts/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.pvr-mediaportal-tvserver]
-file_filter = translations/XBMC-Main-Frodo.pvr-mediaportal-tvserver/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.pvr-nextpvr]
-file_filter = translations/XBMC-Main-Frodo.pvr-nextpvr/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.pvr-vdr-vnsi]
-file_filter = translations/XBMC-Main-Frodo.pvr-vdr-vnsi/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.pvr-vuplus]
-file_filter = translations/XBMC-Main-Frodo.pvr-vuplus/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.webinterface-default]
-file_filter = translations/XBMC-Main-Frodo.webinterface-default/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.pvr-mythtv-cmyth]
-file_filter = translations/XBMC-Main-Frodo.pvr-mythtv-cmyth/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.pvr-dvbviewer]
-file_filter = translations/XBMC-Main-Frodo.pvr-dvbviewer/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-albums-last-fm]
-file_filter = translations/XBMC-Main-Frodo.metadata-albums-last-fm/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-albums-theaudiodb-com]
-file_filter = translations/XBMC-Main-Frodo.metadata-albums-theaudiodb-com/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-artists-last-fm]
-file_filter = translations/XBMC-Main-Frodo.metadata-artists-last-fm/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-artists-theaudiodb-com]
-file_filter = translations/XBMC-Main-Frodo.metadata-artists-theaudiodb-com/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-imdb-com]
-file_filter = translations/XBMC-Main-Frodo.metadata-imdb-com/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-musicvideos-theaudiodb-com]
-file_filter = translations/XBMC-Main-Frodo.metadata-musicvideos-theaudiodb-com/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-rottentomatoes-com]
-file_filter = translations/XBMC-Main-Frodo.metadata-rottentomatoes-com/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-universal]
-file_filter = translations/XBMC-Main-Frodo.metadata-universal/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.openelec-tv]
-file_filter = translations/XBMC-Main-Frodo.openelec-tv/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.pvr-argustv]
-file_filter = translations/XBMC-Main-Frodo.pvr-argustv/<lang>.po
+[xbmc-main.xbmc-core]
+file_filter = translations/xbmc-main.xbmc-core/<lang>.po
 source_lang = en
 

@@ -17,10 +17,6 @@ source_lang = en
 file_filter = translations/xbmc-addons.service-libraryautoupdate/<lang>.po
 source_lang = en
 
-[xbmc-addons.script-cu-lyrics]
-file_filter = translations/xbmc-addons.script-cu-lyrics/<lang>.po
-source_lang = en
-
 [xbmc-addons.webinterface-awx]
 file_filter = translations/xbmc-addons.webinterface-awx/<lang>.po
 source_lang = en
@@ -131,5 +127,109 @@ source_lang = en
 
 [xbmc-addons.service-skin-widgets]
 file_filter = translations/xbmc-addons.service-skin-widgets/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-image-mypicsdb]
+file_filter = translations/xbmc-addons.plugin-image-mypicsdb/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-disclose_tv]
+file_filter = translations/xbmc-addons.plugin-video-disclose_tv/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-hdtrailers_net]
+file_filter = translations/xbmc-addons.plugin-video-hdtrailers_net/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-audio-qobuz]
+file_filter = translations/xbmc-addons.plugin-audio-qobuz/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-cu-lrclyrics]
+file_filter = translations/xbmc-addons.script-cu-lrclyrics/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-tvguide]
+file_filter = translations/xbmc-addons.script-tvguide/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-audio-listenliveeu]
+file_filter = translations/xbmc-addons.plugin-audio-listenliveeu/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-games-rom-collection-browser]
+file_filter = translations/xbmc-addons.script-games-rom-collection-browser/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-game-netwalk]
+file_filter = translations/xbmc-addons.script-game-netwalk/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-audio-lastfm]
+file_filter = translations/xbmc-addons.plugin-audio-lastfm/<lang>.po
+source_lang = en
+
+[xbmc-addons.service-scrobbler-librefm]
+file_filter = translations/xbmc-addons.service-scrobbler-librefm/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-couchpotato_manager]
+file_filter = translations/xbmc-addons.plugin-video-couchpotato_manager/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-videobash_com]
+file_filter = translations/xbmc-addons.plugin-video-videobash_com/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-itunes_trailes]
+file_filter = translations/xbmc-addons.plugin-video-itunes_trailes/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-forum-browser]
+file_filter = translations/xbmc-addons.script-forum-browser/<lang>.po
+source_lang = en
+
+[xbmc-addons.service-xbmc-versioncheck]
+file_filter = translations/xbmc-addons.service-xbmc-versioncheck/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-trakt_list_manager]
+file_filter = translations/xbmc-addons.plugin-video-trakt_list_manager/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-artworkorganizer]
+file_filter = translations/xbmc-addons.script-artworkorganizer/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-favourites]
+file_filter = translations/xbmc-addons.script-favourites/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-globalsearch]
+file_filter = translations/xbmc-addons.script-globalsearch/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-ircchat]
+file_filter = translations/xbmc-addons.script-ircchat/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-screensaver-bigpictures]
+file_filter = translations/xbmc-addons.script-screensaver-bigpictures/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-tv-show-next-aired]
+file_filter = translations/xbmc-addons.script-tv-show-next-aired/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-tvtunes]
+file_filter = translations/xbmc-addons.script-tvtunes/<lang>.po
+source_lang = en
+
+[xbmc-addons.service-openelec-settings]
+file_filter = translations/xbmc-addons.service-openelec-settings/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-audio-jambmc]
+file_filter = translations/xbmc-addons.plugin-audio-jambmc/<lang>.po
 source_lang = en
 
