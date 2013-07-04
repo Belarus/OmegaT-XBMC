@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_2" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
 <!-- Alternative translations -->
@@ -6797,6 +6797,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
+      <prop type="path">#10134</prop>
+      <tuv lang="en">
+        <seg>Favourites</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T043634Z" creationid="alex" creationdate="20130704T043634Z">
+        <seg>Упадабаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
       <prop type="path">#1036</prop>
       <tuv lang="en">
         <seg>Favourites</seg>
@@ -7183,6 +7193,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083836Z">
         <seg>Шрыфт каб паказваць тэкставыя субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
+      <prop type="path">#13303</prop>
+      <tuv lang="en">
+        <seg>Fonts</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T043751Z" creationid="alex" creationdate="20130704T043751Z">
+        <seg>Шрыфты</seg>
       </tuv>
     </tu>
     <tu>
@@ -7653,6 +7673,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T081219Z">
         <seg>імгла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
+      <prop type="path">#10043</prop>
+      <tuv lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T043536Z" creationid="alex" creationdate="20130704T043536Z">
+        <seg>Дапамога</seg>
       </tuv>
     </tu>
     <tu>
@@ -8303,6 +8333,46 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T051445Z">
         <seg>Хай драйвэр думае(пасьля рэстарту)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
+      <prop type="path">#10038</prop>
+      <tuv lang="en">
+        <seg>Level: Advanced</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T043514Z" creationid="alex" creationdate="20130704T043514Z">
+        <seg>Узровень: пашыраны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
+      <prop type="path">#10036</prop>
+      <tuv lang="en">
+        <seg>Level: Basic</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T043439Z" creationid="alex" creationdate="20130704T043439Z">
+        <seg>Узровень: базавы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
+      <prop type="path">#10039</prop>
+      <tuv lang="en">
+        <seg>Level: Expert</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T043528Z" creationid="alex" creationdate="20130704T043528Z">
+        <seg>Узровень: экспэрт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
+      <prop type="path">#10037</prop>
+      <tuv lang="en">
+        <seg>Level: Standard</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T043448Z" creationid="alex" creationdate="20130704T043448Z">
+        <seg>Узровень: стандартны</seg>
       </tuv>
     </tu>
     <tu>
@@ -9933,6 +10003,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T052915Z">
         <seg>Без шыфравання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
+      <prop type="path">#10044</prop>
+      <tuv lang="en">
+        <seg>No help available</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T043548Z" creationid="alex" creationdate="20130704T043548Z">
+        <seg>Даведка адсутнічае</seg>
       </tuv>
     </tu>
     <tu>
@@ -16853,6 +16933,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T041411Z">
         <seg>белы / чырвоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/xbmc-main.xbmc-core/en.po</prop>
+      <prop type="path">#1412</prop>
+      <tuv lang="en">
+        <seg>windy</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20130704T043358Z" creationid="alex" creationdate="20130704T043358Z">
+        <seg>ветрана</seg>
       </tuv>
     </tu>
     <tu>
